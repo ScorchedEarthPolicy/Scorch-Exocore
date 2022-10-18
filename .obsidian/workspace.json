@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "150da4a0f98492af",
+    "type": "split",
+    "children": [
+      {
+        "id": "80cc4c9be86542d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7db91d6f1e25a257",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/imgs/pfp.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22d926cb2abf128e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d02e7500b377dc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e509f202f4abd033",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf91471a0053b065",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "edda9e9b7c04de0d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296
+  },
+  "right": {
+    "id": "fa5c2b51a2ba60c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f4884f40f957bf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ed0ef8d7e095b52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "assets/imgs/pfp.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a501e8b62ac40d8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "assets/imgs/pfp.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f504780cf020cd31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "528fa5a3a1750465",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "assets/imgs/pfp.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "7db91d6f1e25a257",
+  "lastOpenFiles": [
+    "assets/imgs/pfp.png",
+    "assets/imgs/pfp.md",
+    "_articles/Configure Exocore for Personal Use.md",
+    "_daily/2022-10-18.md",
+    "assets/attachments/Pasted image 20220905145243.png",
+    "readme.md",
+    "index.md",
+    "_journal/Exocore Feedback.md",
+    "_journal/Grip Training.md",
+    "_journal/Kariyushi Wear.md"
+  ]
+}
