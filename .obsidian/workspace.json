@@ -16,8 +16,17 @@
                 "file": "assets/imgs/pfp.png"
               }
             }
+          },
+          {
+            "id": "4d2c0c335c2ad42a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/imgs/pfp.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/imgs/pfp.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/imgs/pfp.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -137,7 +142,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7db91d6f1e25a257",
+  "active": "4d2c0c335c2ad42a",
   "lastOpenFiles": [
     "assets/imgs/pfp.png",
     "assets/imgs/pfp.md",
