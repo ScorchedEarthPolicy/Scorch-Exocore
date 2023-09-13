@@ -21,8 +21,12 @@
             "id": "4d2c0c335c2ad42a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_daily/2023-09-13.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_daily/2023-09-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_daily/2023-09-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_daily/2023-09-13.md"
+              }
             }
           }
         ]
@@ -144,15 +152,15 @@
   },
   "active": "4d2c0c335c2ad42a",
   "lastOpenFiles": [
+    "exocore/_templates/_wiki.md",
+    "exocore/_templates/_scrapbook.md",
+    "exocore/_templates/_journal.md",
+    "exocore/_templates/_daily.md",
+    "exocore/_templates/_article.md",
     "assets/imgs/pfp.png",
     "assets/imgs/pfp.md",
     "_articles/Configure Exocore for Personal Use.md",
     "_daily/2022-10-18.md",
-    "assets/attachments/Pasted image 20220905145243.png",
-    "readme.md",
-    "index.md",
-    "_journal/Exocore Feedback.md",
-    "_journal/Grip Training.md",
-    "_journal/Kariyushi Wear.md"
+    "assets/attachments/Pasted image 20220905145243.png"
   ]
 }
